@@ -1,1 +1,3 @@
 # Smart-Parking-System
+
+<p>The Smart Parking System is an <b>IoT-based</b> solution that helps solve the limited parking space problem in urban areas. Using an Arduino Uno board, two servo motors as barriers, and four IR sensors to detect the presence of vehicles, the system allows registered users to enter and exit the parking area easily. Once registered, users can save time and fuel by avoiding the need to circle the parking lot looking for a space. The system detects the vehicle's entry and exit, which inform the board to open or close the barriers accordingly. The Smart Parking System is an innovative solution that reduces congestion on the roads and provides convenience for users.</p>
